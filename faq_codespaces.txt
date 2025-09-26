@@ -1,0 +1,29 @@
+1. ¿Cómo funciona Codespaces?
+Un codespace es un entorno de desarrollo alojado en la nube, personaliza tu proyecto para GitHub Codespaces configurando archivos de contenedor de desarrollo en tu repositorio (a menudo conocido como configuración como código), lo que crea una configuración de codespace repetible para todos los usuarios de tu proyecto. GitHub Codespaces se ejecuta en varias opciones de cómputo basadas en máquinas virtuales alojadas por GitHub.com, que puedes configurar desde máquinas de 2 núcleos hasta 32 núcleos. Conéctate a tus codespaces desde el navegador o localmente usando un IDE como Visual Studio Code o IntelliJ.
+
+2. ¿Cómo se utiliza Codespaces?
+Hay varios puntos de entrada para iniciar un entorno de Codespaces, incluyendo: Aprende más sobre cómo usar Codespaces en nuestra documentación en https://docs.github.com/codespaces/overview.
+
+3. ¿Codespaces está disponible para desarrolladores individuales?
+Codespaces está disponible para desarrolladores en cada organización, y bajo el control de la organización que paga por el codespace del usuario. Todas las cuentas personales (individuales) de GitHub.com incluyen una cuota de uso gratuito cada mes, que las organizaciones pueden habilitar (ver la siguiente pregunta) para sus repositorios privados e internos. GitHub proporcionará a los usuarios en el plan gratuito 120 horas de núcleo o 60 horas de tiempo de ejecución en un codespace de 2 núcleos, más 15 GB de almacenamiento cada mes. Ve cómo se equilibra en la página de facturación en https://github.com/settings/billing?locale=en-US.
+
+4. ¿Codespaces está disponible para equipos y empresas?
+Codespaces está disponible para equipos y empresas, pero debe habilitarse primero en la configuración de la organización. Los equipos y las empresas pueden seleccionar qué repositorios y usuarios tienen acceso a Codespaces para mayor seguridad y control de permisos. Aprende cómo habilitar Codespaces en una organización en nuestra documentación en https://docs.github.com/codespaces/managing-codespaces-for-your-organization/enabling-github-codespaces-for-your-organization.
+
+5. ¿Cuánto cuesta Codespaces?
+Codespaces es gratuito para uso individual hasta 60 horas al mes y viene con un precio simple de pago por uso después de eso. También está disponible para organizaciones con precios de pago por uso y controles de precios para que cualquier empresa o equipo pueda determinar cuánto quiere gastar al mes. Aprende más sobre los precios de Codespaces para organizaciones aquí en https://docs.github.com/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces.
+
+6. ¿Puedo trabajar con Codespaces autohospedado?
+Codespaces no se puede autoalojar.
+
+7. ¿Cómo accedo a Codespaces con LinkedIn Learning?
+Puedes usar Codespaces directamente a través de LinkedIn Learning. LinkedIn Learning ofrece más de 50 cursos en seis de los lenguajes de programación más populares, así como ciencia de datos y aprendizaje automático. Estos cursos están integrados con Codespaces, para que puedas practicar de manera práctica en cualquier momento, desde cualquier máquina a través de LinkedIn. Estos cursos estarán desbloqueados de forma gratuita en LinkedIn Learning hasta febrero de 2023. Aprende más sobre LinkedIn Learning y GitHub Codespaces aquí en https://learning.linkedin.com/product/hands-on-practice.
+
+8. ¿Cómo se habilita Codespaces en GitHub?
+Codespaces está activado por defecto para desarrolladores con una cuenta gratuita de GitHub. Si perteneces a una organización, puede haber una política que impida la clonación, pero si puedes clonar un repositorio, podrás empezar a usar Codespaces. Las organizaciones también necesitarán pagar, habilitar y gestionar sus instancias de Codespaces.
+
+9. ¿Codespaces está disponible para estudiantes?
+Codespaces está disponible de forma gratuita para estudiantes como parte del GitHub Student Developer Pack. Aprende más sobre cómo registrarte y empezar a usar Codespaces y otros productos de GitHub aquí en https://education.github.com/pack.
+
+10. ¿Codespaces se encuentra disponible para los mantenedores de proyectos de código abierto?
+Codespaces proporciona tanto a los mantenedores como a los colaboradores un uso mensual gratuito generoso en https://docs.github.com/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts.
